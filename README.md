@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamelmgh" alt="mariamelmgh" /></a> </p>
 
-- 💬 Ask me about **IOS, Swift, Obj-c**
+- 💬 Ask me about **iOS, Swift, Obj-c**
 - 👀 I’m interested programming & mobile development
 - 🌱 I’m currently learning new technologies 
 - 📫 How to reach me **mariam.elmghraz20@gmail.com**
